@@ -34,6 +34,7 @@
             this.txtA = new System.Windows.Forms.TextBox();
             this.txtB = new System.Windows.Forms.TextBox();
             this.txtKQ = new System.Windows.Forms.TextBox();
+            this.btCong = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -87,11 +88,22 @@
             this.txtKQ.Size = new System.Drawing.Size(595, 43);
             this.txtKQ.TabIndex = 1;
             // 
+            // btCong
+            // 
+            this.btCong.Location = new System.Drawing.Point(187, 268);
+            this.btCong.Name = "btCong";
+            this.btCong.Size = new System.Drawing.Size(151, 49);
+            this.btCong.TabIndex = 2;
+            this.btCong.Text = "+";
+            this.btCong.UseVisualStyleBackColor = true;
+            this.btCong.Click += new System.EventHandler(this.btCong_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(15F, 37F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1540, 845);
+            this.Controls.Add(this.btCong);
             this.Controls.Add(this.txtKQ);
             this.Controls.Add(this.txtB);
             this.Controls.Add(this.txtA);
@@ -115,5 +127,6 @@
         private TextBox txtA;
         private TextBox txtB;
         private TextBox txtKQ;
+        private Button btCong;
     }
 }
