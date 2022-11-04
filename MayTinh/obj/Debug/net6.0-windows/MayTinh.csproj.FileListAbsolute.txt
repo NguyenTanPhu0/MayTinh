@@ -1,0 +1,17 @@
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\bin\Debug\net6.0-windows\MayTinh.exe
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\bin\Debug\net6.0-windows\MayTinh.deps.json
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\bin\Debug\net6.0-windows\MayTinh.runtimeconfig.json
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\bin\Debug\net6.0-windows\MayTinh.dll
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\bin\Debug\net6.0-windows\MayTinh.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\Debug\net6.0-windows\MayTinh.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\Debug\net6.0-windows\MayTinh.Form1.resources
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\Debug\net6.0-windows\MayTinh.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\Debug\net6.0-windows\MayTinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\Debug\net6.0-windows\MayTinh.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\Debug\net6.0-windows\MayTinh.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\Debug\net6.0-windows\MayTinh.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\Debug\net6.0-windows\MayTinh.dll
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\Debug\net6.0-windows\refint\MayTinh.dll
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\Debug\net6.0-windows\MayTinh.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\Debug\net6.0-windows\MayTinh.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\Debug\net6.0-windows\ref\MayTinh.dll
