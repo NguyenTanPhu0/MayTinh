@@ -28,12 +28,92 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.txtA = new System.Windows.Forms.TextBox();
+            this.txtB = new System.Windows.Forms.TextBox();
+            this.txtKQ = new System.Windows.Forms.TextBox();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(36, 59);
+            this.label1.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(68, 37);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Số a";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(36, 122);
+            this.label2.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(70, 37);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "Số b";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(36, 193);
+            this.label3.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(108, 37);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "Kết quả";
+            // 
+            // txtA
+            // 
+            this.txtA.Location = new System.Drawing.Point(196, 59);
+            this.txtA.Name = "txtA";
+            this.txtA.Size = new System.Drawing.Size(595, 43);
+            this.txtA.TabIndex = 1;
+            // 
+            // txtB
+            // 
+            this.txtB.Location = new System.Drawing.Point(196, 119);
+            this.txtB.Name = "txtB";
+            this.txtB.Size = new System.Drawing.Size(595, 43);
+            this.txtB.TabIndex = 1;
+            // 
+            // txtKQ
+            // 
+            this.txtKQ.Location = new System.Drawing.Point(196, 187);
+            this.txtKQ.Name = "txtKQ";
+            this.txtKQ.Size = new System.Drawing.Size(595, 43);
+            this.txtKQ.TabIndex = 1;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(15F, 37F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1540, 845);
+            this.Controls.Add(this.txtKQ);
+            this.Controls.Add(this.txtB);
+            this.Controls.Add(this.txtA);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.Margin = new System.Windows.Forms.Padding(6, 7, 6, 7);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private Label label1;
+        private Label label2;
+        private Label label3;
+        private TextBox txtA;
+        private TextBox txtB;
+        private TextBox txtKQ;
     }
 }
