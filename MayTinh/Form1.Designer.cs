@@ -93,7 +93,7 @@
             // 
             this.btCong.Location = new System.Drawing.Point(187, 268);
             this.btCong.Name = "btCong";
-            this.btCong.Size = new System.Drawing.Size(151, 49);
+            this.btCong.Size = new System.Drawing.Size(170, 70);
             this.btCong.TabIndex = 2;
             this.btCong.Text = "+";
             this.btCong.UseVisualStyleBackColor = true;
@@ -103,7 +103,7 @@
             // 
             this.btTru.Location = new System.Drawing.Point(478, 268);
             this.btTru.Name = "btTru";
-            this.btTru.Size = new System.Drawing.Size(151, 49);
+            this.btTru.Size = new System.Drawing.Size(169, 70);
             this.btTru.TabIndex = 2;
             this.btTru.Text = "-";
             this.btTru.UseVisualStyleBackColor = true;
